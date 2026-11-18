@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+attendance.db
+models/*.onnx
+.env
